@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "name": "Shadab Raza",
+      "username": "shadabraza0786",
+      "email": "shadab@exp.com",
+      "phone": "9876543210",
+      "company": "Samsung Galaxy",
+      "website": "www.shadabraza.com",
+      "id": 1
+    },
+    {
+      "name": "Gajraj Singh",
+      "username": "gajrajsingh0562",
+      "email": "gajrags@exp.com",
+      "phone": "98677898798",
+      "company": "Dell",
+      "website": "www.gajraj.com",
+      "id": 3
+    },
+    {
+      "name": "Vishal kumar",
+      "username": "vshalkumar0236",
+      "email": "vishalkumar@exp.com",
+      "phone": "987654321",
+      "company": "Redmi",
+      "website": "www.vishalkumar.com",
+      "id": 4
+    },
+    {
+      "name": "Shadab khan",
+      "username": "shadabkhan2352",
+      "email": "shadab@exp.com",
+      "phone": "9868988974",
+      "company": "Samsung",
+      "website": "www.shadabkhan.com",
+      "id": 5
+    },
+    {
+      "name": "Shabbu khan",
+      "email": "shabbu@exp.com",
+      "phone": "9080706050",
+      "company": "xiomi",
+      "website": "www..shabbu.com",
+      "id": 6
+    },
+    {
+      "name": "Shabbo",
+      "email": "shabbo@exp.com",
+      "phone": "922222222",
+      "company": "samsung",
+      "website": "www.google.com",
+      "id": 9
+    },
+    {
+      "name": "Shadab Khan",
+      "email": "shadabkhan@exp.com",
+      "phone": "98745698956",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 12
+    },
+    {
+      "name": "Shadab Khan22",
+      "email": "shadabkhan5@exp.com",
+      "phone": "98745698956",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 13
+    },
+    {
+      "name": "Shahid kapoor",
+      "email": "shadabkhan@exp.com",
+      "phone": "98025643356",
+      "company": "samsung",
+      "website": "www.google.com",
+      "id": 14
+    },
+    {
+      "name": "Shahid kapoor1",
+      "email": "shahidk1@exp.com",
+      "phone": "9856423112",
+      "company": "google",
+      "website": "www.google.com",
+      "id": 15
+    }
+  ]
+}
